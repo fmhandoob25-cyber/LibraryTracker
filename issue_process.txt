@@ -1,0 +1,4 @@
+search for the required book
+check whether the book is available
+record the member details and issue the book
+update the book status to issued
